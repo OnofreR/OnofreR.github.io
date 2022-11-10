@@ -1,6 +1,14 @@
+
 body{
     background-color: rgb(252, 253, 249);
     background-image: url(Imagenes/fondo.png);
     background-size: 100%;
     background-repeat: no-repeat;
+
+}
+
+
+nav .servicios{
+    justify-content: center;
+    justify-items: center;
 }
