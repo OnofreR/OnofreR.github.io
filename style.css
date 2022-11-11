@@ -14,9 +14,18 @@ body{
     justify-content: center;
 }
 
+.texto{
+    padding: 20%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    text-align: center;
+}
 .gaa{
     margin: 2%;
     justify-content: center;
     align-items: center;
     justify-items: center;
+}
+.info{
+    line-height: 10px;
 }
