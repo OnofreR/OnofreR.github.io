@@ -1,6 +1,6 @@
 
 body{
-    background-color: rgb(252, 253, 249);
+    background-color: rgb(243, 243, 243);
     background-image: url(Imagenes/fondo.png);
     background-size: 100%;
     background-repeat: no-repeat;
@@ -9,20 +9,13 @@ body{
     align-items: center;
 }
 
-nav .servicios{
+.grupo5{
+    display: flex;
     justify-content: center;
-    justify-items: center;
-}
-div .Nosotros{
-    margin: 5%;
-}
-
-.Planes{
-  display:flex;
 }
 
 .gaa{
-    display:flex;
+    margin: 2%;
     justify-content: center;
     align-items: center;
     justify-items: center;
