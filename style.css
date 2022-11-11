@@ -4,7 +4,9 @@ body{
     background-image: url(Imagenes/fondo.png);
     background-size: 100%;
     background-repeat: no-repeat;
-
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
 }
 
 nav .servicios{
@@ -13,4 +15,15 @@ nav .servicios{
 }
 div .Nosotros{
     margin: 5%;
+}
+
+.Planes{
+  display:flex;
+}
+
+.gaa{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    justify-items: center;
 }
